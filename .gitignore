@@ -1,0 +1,11 @@
+# Ignore all types of files.
+*
+
+# Do not ignore subfolders.
+!*/
+
+# Do not ignore the .gitignore file.
+!.gitignore
+
+# Do not ignore the .java files.
+!*.java
