@@ -1,0 +1,10 @@
+Ce se da:
+Intr-un spital avem mai multi doctori si mai multe asistente. Pentru fiecare doctor avem liste
+cu pacientii pe care acestia ii consulta si-i trateaza. Similar pentru asistente.
+
+Ce se cere:
+1. Creati doi doctori si adaugati trei pacienti in listele lor.
+2. Afisati pentru un doctor specificat lista sa de pacienti si bolile de care acestia sufera.
+
+Exemplu: Doctorul Popescu (ORL) (Pacientul Ionescu, Pacientul Vasilescu),
+Doctorul Georgescu (Inima) (Pacientul Ionescu, Pacientul Petrescu)
