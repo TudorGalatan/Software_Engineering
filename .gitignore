@@ -4,8 +4,10 @@
 # Do not ignore subfolders.
 !*/
 
-# Do not ignore the .gitignore file.
+# Do not ignore the .gitignore file, as well as, .java and .txt files.
 !.gitignore
-
-# Do not ignore the .java files.
 !*.java
+!*.txt
+
+# Ignore the bin folder.
+*\bin

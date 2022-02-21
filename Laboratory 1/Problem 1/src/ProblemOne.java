@@ -1,5 +1,6 @@
 /*
 	Laboratory 1
+	Problem 1
 */
 
 
@@ -268,7 +269,7 @@ class Test
 }
 
 
-public class LaboratoryOne
+public class ProblemOne
 {
 	public static void main (String args[])
 	{

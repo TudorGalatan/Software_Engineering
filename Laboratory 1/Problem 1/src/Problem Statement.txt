@@ -1,0 +1,4 @@
+Problem 1 [20 points]
+A problem with OOP who works with class hierarchies similar from https://raygun.com/blog/oop-concepts-java/.
+The following concepts will be implemented: abstract classes, interfaces, inheritance, polymorphism (static and dynamic).
+In the main program, objects will be created and information will be displayed for each of the implemented concepts.
